@@ -1,7 +1,7 @@
  ## Hi there 👋 
 
 - 🔭 I’m a passionate in blockchain and web3 in general
-- 🌱 I’m currently learning about blockchain
+- 🌱 I’m currently in my way to become a blockchain developer 
 - 📫 How to reach me: butanschek@gmail.com
 
 
