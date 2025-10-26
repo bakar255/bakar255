@@ -54,7 +54,7 @@ A revolutionary Web3 application that creates and manages ERC-721 NFTs represent
 
 **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, Solidity, Hardhat, OpenZeppelin
 
-🔗 **Live Demo**: [https://veriordo-ik2s2raj2-bakar255s-projects.vercel.app/](https://veriordo-ik2s2raj2-bakar255s-projects.vercel.app/)
+🔗 **Live Demo**: [https://veriordo.vercel.app/](https://veriordo.vercel.app/)
 
 ---
 
@@ -65,7 +65,7 @@ A clean and elegant typography demonstration website built with modern web techn
 
 **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS
 
-🔗 **Live Demo**: [https://typology-clone-e1fu9csve-bakar255s-projects.vercel.app/](https://typology-clone-e1fu9csve-bakar255s-projects.vercel.app/)
+🔗 **Live Demo**: [https://typology-clone.vercel.app/](https://typology-clone.vercel.app/)
 
 ---
 
