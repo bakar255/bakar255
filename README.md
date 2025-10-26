@@ -3,8 +3,8 @@
 I'm a passionate **Full Stack Developer** with a deep love for **blockchain and Web3** technologies. I specialize in building innovative decentralized applications that bridge the gap between traditional systems and the future of technology. I have also
 a deep profesionelles experiences with Laravel and PHP.
 
-- 🔭 **Currently working on**: Web 2 specialized in Typescript and react with solutions from Web3 applications
-- 🌱 **Learning**: Advanced smart contract development and DeFi protocols
+- 🔭 **Currently working on**: Landing page, Web 2 applications in Typescript and react with solutions from Web3 applications
+- 🌱 **Learning**: Advanced smart contract in solidity, rust and mainly Typescript.
 - 💬 **Ask me about**: React, Next.js, Solidity, Laravel.
 - 📫 **How to reach me**: [butanschek@gmail.com](mailto:butanschek@gmail.com)
 - ⚡ **Fun fact**: I believe stablecoin are the futur.
@@ -42,10 +42,8 @@ a deep profesionelles experiences with Laravel and PHP.
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
 </p>
+
 
 ## 🚀 Frontend Projects
 
@@ -71,10 +69,5 @@ A clean and elegant typography demonstration website built with modern web techn
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
-
----
-
 *"Never give-up !"* 🚀
-**bakar255/bakar255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
