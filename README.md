@@ -48,7 +48,7 @@ a deep profesionelles experiences with Laravel and PHP.
 ## 🚀 Frontend Projects
 
 ### VeriOrdo
-**Blockchain-based Medical Prescription Management System**
+**Blockchain-based Medical Prescription**
 
 A revolutionary Web3 application that creates and manages ERC-721 NFTs representing medical prescriptions. Built with Next.js, React, and Solidity smart contracts, VeriOrdo ensures secure, tamper-proof prescription tracking in the healthcare industry. (You can also see the smart-contract in my repo)
 
@@ -59,9 +59,9 @@ A revolutionary Web3 application that creates and manages ERC-721 NFTs represent
 ---
 
 ### Typology
-**Modern Typography Showcase**
+**Modern E-commerce website**
 
-A clean and elegant typography demonstration website built with modern web technologies. Features beautiful typefaces, responsive design, and smooth animations.
+A clean website built with modern web technologies Features beautiful typefaces responsive design, and smooth animations.
 
 **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS
 
