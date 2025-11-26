@@ -1,7 +1,6 @@
 # Hi there  
 
-I'm a passionate **Full Stack Developer** with a deep love for **blockchain and Web3** technologies. I specialize in building innovative decentralized applications that bridge the gap between traditional systems and the future of technology. I have also
-a deep profesionelles experiences with Laravel and PHP.
+I'm a passionate **Full Stack Developer** with a deep love for **blockchain and Web3** technologies. I specialize in building innovative decentralized applications that bridge the gap between traditional systems and the future of technology.
 
 -  **Currently working on**: Landing page, Web 2 applications in Typescript and react with solutions from Web3 applications
 -  **Learning**: Advanced smart contract in solidity, rust and mainly Typescript.
