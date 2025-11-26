@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** with a deep love for **blockchain and 
 ##  Frontend Projects
 
 ### VeriOrdo
-**Blockchain-based Medical Prescription**
+**Landing page**
 
 A revolutionary Web3 application that creates and manages ERC-721 NFTs representing medical prescriptions. Built with Next.js, React, and Solidity smart contracts, VeriOrdo ensures secure, tamper-proof prescription tracking in the healthcare industry. (You can also see the smart-contract in my repo)
 
